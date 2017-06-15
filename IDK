@@ -1,0 +1,8 @@
+echo "# DiscordBotTest2" >> README.md
+  git init
+  git add README.md
+  git commit -m "first commit"
+  git remote add origin https://github.com/NightingaleJ/DiscordBotTest.git
+  git push -u origin master
+  
+ 
